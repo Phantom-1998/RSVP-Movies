@@ -1,0 +1,10 @@
+director_id,director_name,number_of_movies,avg_rating,avg_inter_movie_days,total_votes,min_rating,max_rating,total_duration
+nm1777967,"A.L. Vijay",5,5.65,177,1754,3.7,6.9,613
+nm2096009,"Andrew Jones",5,3.04,191,1989,2.7,3.2,432
+nm0425364,"Jesse V. Johnson",4,6.10,299,14778,4.2,6.5,383
+nm2691863,"Justin Price",4,4.93,315,5343,3.0,5.8,346
+nm0001752,"Steven Soderbergh",4,6.77,254,171684,6.2,7.0,401
+nm6356309,"Özgür Bakar",4,3.96,112,1092,3.1,4.9,374
+nm0515005,"Sam Liu",4,6.32,260,28557,5.8,6.7,312
+nm0814469,"Sion Sono",4,6.31,331,2972,5.4,6.4,502
+nm0831321,"Chris Stokes",4,4.32,198,3664,4.0,4.6,352
